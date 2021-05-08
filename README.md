@@ -6,3 +6,4 @@
 - Perfomed CNN to predict weather a image conatin Human or Horse.
 - This project is also deployed on Heroku  
 - :boom: [Demo](https://horsehumanpredictordaniya.herokuapp.com/)
+![screenshot](https://github.com/daniyaniazi/Crisp-Metric-MAY21/blob/main/Human-horse-prediction/static/images/demo.PNG)
