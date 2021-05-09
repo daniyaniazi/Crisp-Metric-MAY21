@@ -6,7 +6,7 @@
 - Perfomed CNN to predict weather a image conatin Human or Horse.
 - This project is also deployed on Heroku  
 - :boom: [Demo](https://horsehumanpredictordaniya.herokuapp.com/)
-![screenshot](https://github.com/daniyaniazi/Crisp-Metric-MAY21/blob/main/Human-horse-prediction/static/images/demo.PNG)
+![screenshot|50x50](https://github.com/daniyaniazi/Crisp-Metric-MAY21/blob/main/Human-horse-prediction/static/images/demo.PNG)
 
 
 ## Task 5 : Tomato Detection :tomato:
@@ -15,4 +15,4 @@
 - I use lblImegv1.8.1 to anonate the images in yolo format
 - For Gpu i have used Google Colab
 - :boom: results:
-- ![screenshot](https://github.com/daniyaniazi/Crisp-Metric-MAY21/blob/main/Tomato_Detection/predictions.jpg)
+![screenshot](https://github.com/daniyaniazi/Crisp-Metric-MAY21/blob/main/Tomato_Detection/predictions.jpg)
